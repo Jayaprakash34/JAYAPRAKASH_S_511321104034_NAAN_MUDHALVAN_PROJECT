@@ -23,7 +23,7 @@
 ## LOGIN DETAILS:
 
 
-UNAME: admin
+Username: admin
 
 
 Password:  admin
