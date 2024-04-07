@@ -26,7 +26,7 @@
 UNAME: admin
 
 
-Password:admin
+Password:  admin
 
 
 
